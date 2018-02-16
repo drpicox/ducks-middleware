@@ -299,7 +299,7 @@ const middleware = ducksMiddleware(ducks)
 const store = createStore(
   reducer, 
   preloadedState, 
-  applyMiddleware(ducksMiddleware)
+  applyMiddleware(middleware)
 )
 
 // ...do your stuff...
