@@ -1,4 +1,4 @@
-ducksMiddleware
+ducksMiddleware ![building status](https://api.travis-ci.org/drpicox/ducks-middleware.svg?branch=master)
 ===============
 
 Extract all available middleware from a ducks object and creates
