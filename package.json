@@ -1,6 +1,6 @@
 {
   "name": "ducks-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "function that creates a middleware function from many ducks",
   "main": "index.js",
   "scripts": {
